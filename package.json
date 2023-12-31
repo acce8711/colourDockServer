@@ -1,10 +1,11 @@
 {
   "name": "palette-dock-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "paletteDock Server",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "start": "node index.js",
+    "json-server": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
