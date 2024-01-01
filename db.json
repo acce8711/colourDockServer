@@ -1,127 +1,125 @@
 {
     "palettes": [
-        
-            {
-              "id": "gj7Ysd92c4FDSg8WgSbL7",
-              "name": "harmony bliss",
-              "hexValues": ["#aabbcc", "#ddeeff", "#445566"],
-              "votes": 8
-            },
-            {
-              "id": "3mBb4uPz7v9UJYkBW8uR6",
-              "name": "serene hues",
-              "hexValues": ["#789012", "#345678", "#901234", "#567890"],
-              "votes": 15
-            },
-            {
-              "id": "F2YfsYTkP2H5sNwS1jA4s",
-              "name": "tranquil tones",
-              "hexValues": ["#112233", "#445566", "#778899", "#99aabb", "#ccddeee"],
-              "votes": 6
-            },
-            {
-              "id": "Wj9nmD9vp3EwiL2oE5R6s",
-              "name": "pastel dream",
-              "hexValues": ["#ffd700", "#ffb6c1"],
-              "votes": 18
-            },
-            {
-              "id": "q7t8eR9w0nL3c8Z8v9Y7d",
-              "name": "azure tranquility",
-              "hexValues": ["#007fff", "#89cff0", "#4682b4"],
-              "votes": 10
-            },
-            {
-              "id": "Uo5tG8H2S4H9A1R8M9s",
-              "name": "golden sunset",
-              "hexValues": ["#ffd700", "#ffa500", "#ff6347"],
-              "votes": 2
-            },
-            {
-              "id": "L3mM9aUvA8uR9H4A1rG5s",
-              "name": "mystic aura",
-              "hexValues": ["#8a2be2", "#9932cc", "#9400d3"],
-              "votes": 12
-            },
-            {
-              "id": "C8E8l3A4G1e8U9K2oB7W8",
-              "name": "emerald elegance",
-              "hexValues": ["#50c878", "#228b22", "#32cd32"],
-              "votes": 5
-            },
-            {
-              "id": "R4F8e5m7e1r3aC8H9a9r6m",
-              "name": "crimson charm",
-              "hexValues": ["#dc143c", "#ff4500", "#8b0000"],
-              "votes": 16
-            },
-            {
-              "id": "Z7L9p2Bb4uPz7v9UJYkBW8u",
-              "name": "pearlescent glow",
-              "hexValues": ["#e6e6fa", "#d8bfd8", "#dda0dd"],
-              "votes": 7
-            },
-            {
-              "id": "R4oZ1P6F5xL9S7tE2aH8p9aS",
-              "name": "rose petal",
-              "hexValues": ["#ffc0cb", "#ff69b4", "#ff1493"],
-              "votes": 13
-            },
-            {
-              "id": "L3aV8eN4d9eF5J3P2wH5b4vU",
-              "name": "lavender fields",
-              "hexValues": ["#e6e6fa", "#d8bfd8", "#dda0dd", "#ff00ff"],
-              "votes": 9
-            },
-            {
-              "id": "O3cEaN6B6rE5aT1O2D2J2z9",
-              "name": "ocean breeze",
-              "hexValues": ["#87ceeb", "#00bfff", "#1e90ff"],
-              "votes": 20
-            },
-            {
-              "id": "S5aP3p2H9S1sN6wS3oF9P0T9",
-              "name": "sapphire serenity",
-              "hexValues": ["#4682b4", "#5f9ea0", "#b0c4de"],
-              "votes": 3
-            },
-            {
-              "id": "A6uT8uM7nL1a2W3h2i0s0p0e0r0y0",
-              "name": "autumnal palette",
-              "hexValues": ["#ff4500", "#ff8c00", "#daa520"],
-              "votes": 14
-            },
-            {
-              "id": "F6o3r8e7s8t9W7h9i2s0p9e8r5s",
-              "name": "forest whispers",
-              "hexValues": ["#228b22", "#32cd32", "#006400"],
-              "votes": 4
-            },
-            {
-              "id": "M7a9n4g6o2D4e9l8i0g0h4t",
-              "name": "mango delight",
-              "hexValues": ["#ffd700", "#ffa500"],
-              "votes": 11
-            },
-            {
-              "id": "A1x8U7T8uM7S7u2n0r9i6s",
-              "name": "sunrise symphony",
-              "hexValues": ["#ffd700", "#ff6347", "#ff4500"],
-              "votes": 1
-            },
-            {
-              "id": "C8oR9aL5r6e9eF5z7y9r8a5t3u6r4e",
-              "name": "coral reef",
-              "hexValues": ["#ff6347", "#ff4500", "#cd5c5c"],
-              "votes": 17
-            },
-            {
-              "id": "S3i5l8v9e7r0L9i4n8g5",
-              "name": "silver lining",
-              "hexValues": ["#c0c0c0", "#808080", "#a9a9a9"],
-              "votes": 19
-            }
-          
-          
+      {
+        "id": "gj7Ysd92c4FDSg8WgSbL7",
+        "name": "harmony bliss",
+        "hexValues": ["#3498db", "#2ecc71", "#e74c3c", "#f39c12"],
+        "votes": 8
+      },
+      {
+        "id": "3mBb4uPz7v9UJYkBW8uR6",
+        "name": "serene hues",
+        "hexValues": ["#1abc9c", "#d35400", "#8e44ad", "#ecf0f1"],
+        "votes": 15
+      },
+      {
+        "id": "F2YfsYTkP2H5sNwS1jA4s",
+        "name": "tranquil tones",
+        "hexValues": ["#3498db", "#f39c12", "#27ae60", "#c0392b", "#bdc3c7"],
+        "votes": 6
+      },
+      {
+        "id": "Wj9nmD9vp3EwiL2oE5R6s",
+        "name": "pastel dream",
+        "hexValues": ["#ffecb3", "#ffb366"],
+        "votes": 18
+      },
+      {
+        "id": "q7t8eR9w0nL3c8Z8v9Y7d",
+        "name": "azure tranquility",
+        "hexValues": ["#3498db", "#3498db", "#e74c3c"],
+        "votes": 10
+      },
+      {
+        "id": "Uo5tG8H2S4H9A1R8M9s",
+        "name": "golden sunset",
+        "hexValues": ["#f1c40f", "#e67e22", "#d35400"],
+        "votes": 2
+      },
+      {
+        "id": "L3mM9aUvA8uR9H4A1rG5s",
+        "name": "mystic aura",
+        "hexValues": ["#9b59b6", "#8e44ad", "#2980b9"],
+        "votes": 12
+      },
+      {
+        "id": "C8E8l3A4G1e8U9K2oB7W8",
+        "name": "emerald elegance",
+        "hexValues": ["#16a085", "#27ae60", "#2ecc71"],
+        "votes": 5
+      },
+      {
+        "id": "R4F8e5m7e1r3aC8H9a9r6m",
+        "name": "crimson charm",
+        "hexValues": ["#c0392b", "#e74c3c", "#8e44ad"],
+        "votes": 16
+      },
+      {
+        "id": "Z7L9p2Bb4uPz7v9UJYkBW8u",
+        "name": "pearlescent glow",
+        "hexValues": ["#ecf0f1", "#bdc3c7", "#a6acaf"],
+        "votes": 7
+      },
+      {
+        "id": "R4oZ1P6F5xL9S7tE2aH8p9aS",
+        "name": "rose petal",
+        "hexValues": ["#e74c3c", "#d35400", "#ff7f50"],
+        "votes": 13
+      },
+      {
+        "id": "L3aV8eN4d9eF5J3P2wH5b4vU",
+        "name": "lavender fields",
+        "hexValues": ["#a6acaf", "#ecf0f1", "#d35400", "#ff00ff"],
+        "votes": 9
+      },
+      {
+        "id": "O3cEaN6B6rE5aT1O2D2J2z9",
+        "name": "ocean breeze",
+        "hexValues": ["#3498db", "#00bfff", "#1e90ff"],
+        "votes": 20
+      },
+      {
+        "id": "S5aP3p2H9S1sN6wS3oF9P0T9",
+        "name": "sapphire serenity",
+        "hexValues": ["#3498db", "#5f9ea0", "#b0c4de"],
+        "votes": 3
+      },
+      {
+        "id": "A6uT8uM7nL1a2W3h2i0s0p0e0r0y0",
+        "name": "autumnal palette",
+        "hexValues": ["#ff4500", "#ff8c00", "#daa520"],
+        "votes": 14
+      },
+      {
+        "id": "F6o3r8e7s8t9W7h9i2s0p9e8r5s",
+        "name": "forest whispers",
+        "hexValues": ["#2ecc71", "#27ae60", "#006400"],
+        "votes": 4
+      },
+      {
+        "id": "M7a9n4g6o2D4e9l8i0g0h4t",
+        "name": "mango delight",
+        "hexValues": ["#f1c40f", "#e67e22"],
+        "votes": 11
+      },
+      {
+        "id": "A1x8U7T8uM7S7u2n0r9i6s",
+        "name": "sunrise symphony",
+        "hexValues": ["#f1c40f", "#ff6347", "#ff4500"],
+        "votes": 1
+      },
+      {
+        "id": "C8oR9aL5r6e9eF5z7y9r8a5t3u6r4e",
+        "name": "coral reef",
+        "hexValues": ["#ff4500", "#ff6347", "#cd5c5c"],
+        "votes": 17
+      },
+      {
+        "id": "S3i5l8v9e7r0L9i4n8g5",
+        "name": "silver lining",
+        "hexValues": ["#c0c0c0", "#808080", "#a9a9a9"],
+        "votes": 19
+      }
     ]
+    
 }
