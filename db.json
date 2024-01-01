@@ -1,6 +1,6 @@
 {
     "palettes": [
-        [
+        
             {
               "id": "gj7Ysd92c4FDSg8WgSbL7",
               "name": "harmony bliss",
@@ -121,7 +121,7 @@
               "hexValues": ["#c0c0c0", "#808080", "#a9a9a9"],
               "votes": 19
             }
-          ]
+          
           
     ]
 }
